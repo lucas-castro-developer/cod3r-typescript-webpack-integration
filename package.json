@@ -4,6 +4,7 @@
   "description": "Repositório elaborado para executar os exercícios da aula integração + Webpack do Curso `Entendendo Typescript` ministrado pelo instrutor Leonardo Moura Leitão",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
