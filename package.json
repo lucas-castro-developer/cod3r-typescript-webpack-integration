@@ -20,6 +20,7 @@
   "homepage": "https://github.com/lucas-castro-developer/cod3r-typescript-webpack-integration#readme",
   "devDependencies": {
     "@types/jquery": "^3.5.5",
+    "copy-webpack-plugin": "^7.0.0",
     "jquery": "^3.5.1",
     "ts-loader": "^8.0.14",
     "typescript": "^4.1.3",
